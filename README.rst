@@ -18,4 +18,4 @@ Contributions
 ==============
 
 Bundle project created by Pxl_Buzzard, and tremendously helped by d4rkie, Gaigo, and janullrich (Gaz) with their Bundle contributions. Thank you to everyone on the forum who makes the icons too.
-A huge thank you to jackietran for creating Black'UPS Darkness HD!
+A huge thank you to `jackietran <http://jackietrananh.com/>`_ for creating Black'UPS Darkness HD!
